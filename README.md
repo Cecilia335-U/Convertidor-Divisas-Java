@@ -1,6 +1,7 @@
 ## CONVERSOR DE DIVISAS EN JAVA
 
 Bienvenido al mundo VS Code Java. A continuación se presenta el conversor de divisas en codigo java, como tarea de aplicación de la unidad 6 de la materia Fundamentos de Programación.
+Asignatura: Lenguajes de Programación TSU: Servicios en la nube Nombres: Cecilia Marisol Apellidos: Alvarado Umaña
 
 ## Descripción
 El conversor de divisas permite usar los diferentes cambios de monedas mas utilizados, además podemos decir que:
